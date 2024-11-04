@@ -1,8 +1,8 @@
 # Vite-React-Docu
 
-Download nodejs
-To check if you have nodejs installed in your computer, type: node -v in your command prompt.
-To create Vite + React folder
+## Download nodejs
+## To check if you have nodejs installed in your computer, type: node -v in your command prompt.
+## To create Vite + React folder
 1. Open new terminal and type: npx create vite@latest myproject.
 2. To add tailwindcss open new terminal inside your created Vite + React folder type: npm install -D tailwindcss
 3. To create tailwind.config.js file type: npx tailwindcss init
